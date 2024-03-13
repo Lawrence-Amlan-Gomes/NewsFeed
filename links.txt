@@ -1,3 +1,1 @@
-https://github.com/Learn-with-Sumit/assignment-1-smartgrade-showcase-Lawrence-Amlan-Gomes
-
-https://lws-react-js-assignment-1.vercel.app/
+API Key: 492b2615aabd48fd8dd358459635168c
